@@ -7,7 +7,9 @@
 Bu sayfa içerisinde
 * Derslere ait repositoryler
 * Ödevler
-* Duyurular  
-Paylaşılmaktadır.
+* Duyurular paylaşılmaktadır. 
+ 
+ 
+
 
 Sayfa yöentimi [Rüveyda ALAMAN] (alamanrvyd.github.io) tarafından yönetilmektedir.
