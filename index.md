@@ -12,4 +12,4 @@ Bu sayfa içerisinde
  
 
 
-Sayfa yöentimi [Rüveyda ALAMAN] (alamanrvyd.github.io) tarafından yönetilmektedir.
+Sayfa yöentimi [Rüveyda ALAMAN] (20215070028.github.io) tarafından yönetilmektedir.
